@@ -19,7 +19,7 @@ I'm a third year Computer Science and Design student at Northeastern University,
 <h4> Languages </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,py,r,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,html,css,processing,py,r,mysql" />
   </a>
 </p>
 </span>
@@ -27,25 +27,33 @@ I'm a third year Computer Science and Design student at Northeastern University,
 <h4> Frameworks </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,docker,github,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=docker" />
   </a>
 </p>
 </span>
 
-<h4> Design Tools </h4>
+<h4> Design and Prototyping Tools </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ai,ps,notion" />
+    <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
   </a>
 </p>
 <span>
 
 </span>
 
-<h4> IDE </h4>
+<h4> IDEs and Operating Systems </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode" />
+    <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,ubuntu,windows" />
+  </a>
+</p>
+</span>
+
+<h4> Other Tools </h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,notion,github" />
   </a>
 </p>
 </span>
