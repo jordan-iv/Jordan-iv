@@ -49,11 +49,9 @@ I'm a third year Computer Science and Design student at Northeastern University,
   </a>
 </p>
 </span>
-
+<br>	
 <hr>
 <p align="center">
    <i> Sometimes you've just got to lick the stamp and send it! - Daniel Ricciardo </i>
    <br>
 <br>	
-</p>
-<p align="center">Powered by hard work and Red Bull 🏎️⚡️
