@@ -1,11 +1,11 @@
 # Howdy! I'm Ivy Jordan! 
-I'm a third year Computer Science and Design student at Northeastern University, originally from San Antonio, Texas. Here's my README where you can well... read about me!
+I'm a third year Computer Science and Design student at Northeastern University, originally from San Antonio, Texas. Here is where you can learn a little bit more about me and my current and previous works in Computer Science. For my design work, feel free to check out my notion page or personal website: https://jordan-iv.github.io
 
 ## About Me 🌿
 
 **Here's what I'm currently learning:** 
-- Human Computer Interaction
 - Experience Design
+- Human Computer Interaction
 - History of Technology
 - Typographic Systems
 
@@ -13,9 +13,8 @@ I'm a third year Computer Science and Design student at Northeastern University,
 - 🤺 Particiapting on the Northeastern University Club Fencing team
 - 🏢 Working part-time at Coverys as a O365 Cloud Co-op
 - 🏎️ Working on a Formula 1 Driver Analysis project
-
-
-## My Skills Include
+	
+## My Skills Include 🌴
 <h4> Languages </h4>
 <p align="center">
   <a href="https://skillicons.dev">
