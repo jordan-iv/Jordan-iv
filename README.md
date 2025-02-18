@@ -23,14 +23,6 @@ I'm a third year Computer Science and Design student at Northeastern University,
 </p>
 </span>
 
-<h4> Frameworks </h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker" />
-  </a>
-</p>
-</span>
-
 <h4> Design and Prototyping Tools </h4>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -49,10 +41,10 @@ I'm a third year Computer Science and Design student at Northeastern University,
 </p>
 </span>
 
-<h4> Other Tools </h4>
+<h4> Frameworks and Other Tools </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,notion,github" />
+    <img src="https://skillicons.dev/icons?i=azure,docker,notion,github" />
   </a>
 </p>
 </span>
