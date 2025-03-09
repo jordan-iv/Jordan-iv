@@ -18,7 +18,7 @@ I'm a third year Computer Science and Design student at Northeastern University,
 <h4> Languages </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,processing,py,r,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,html,css,processing,py,md,r,mysql" />
   </a>
 </p>
 </span>
@@ -44,7 +44,7 @@ I'm a third year Computer Science and Design student at Northeastern University,
 <h4> Frameworks and Other Tools </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,docker,notion,github" />
+    <img src="https://skillicons.dev/icons?i=azure,github,docker,notion,latex" />
   </a>
 </p>
 </span>
