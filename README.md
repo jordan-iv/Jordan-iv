@@ -42,7 +42,7 @@ I'm a third year Computer Science and Design student at Northeastern University,
 <h4> Frameworks and Other Tools </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,github,docker,notion,latex" />
+    <img src="https://skillicons.dev/icons?i=azure,github,docker,notion,latex,postman" />
   </a>
 </p>
 </span>
