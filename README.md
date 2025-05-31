@@ -4,10 +4,8 @@ I'm a third year Computer Science and Design student at Northeastern University,
 ## About Me 🌿
 
 **Here's what I'm currently learning:** 
-- Experience Design
-- Human Computer Interaction
-- History of Technology
-- Typographic Systems
+- Software Engineering
+
 
 **Here's what I'm currently doing:**
 - 🤺 Particiapting on the Northeastern University Club Fencing team
@@ -18,7 +16,7 @@ I'm a third year Computer Science and Design student at Northeastern University,
 <h4> Languages </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,processing,py,md,r,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,html,css,react,processing,py,md,r,mysql" />
   </a>
 </p>
 </span>
