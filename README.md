@@ -1,5 +1,5 @@
 # Howdy! I'm Ivy Jordan! 
-I'm a third year Computer Science and Design student at Northeastern University, originally from San Antonio, Texas. Here is where you can learn a little bit more about me and my current and previous works in Computer Science. For my design work, feel free to check out my notion page or personal website: https://jordan-iv.github.io
+I'm a fourth year Computer Science and Design student at Northeastern University. Here is where you can learn a little bit more about my current and previous works in Computer Science. For my design work, feel free to check out my notion page or personal website: https://jordan-iv.github.io
 
 ## About Me 🌿
 
