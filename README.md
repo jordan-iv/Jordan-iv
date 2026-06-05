@@ -3,13 +3,8 @@ I'm a fourth year Computer Science and Design student at Northeastern University
 
 ## About Me 🌿
 
-**Here's what I'm currently learning:** 
-- Introduction to Human Communication
-
-
 **Here's what I'm currently doing:**
-- 🤺 Particiapting on the Northeastern University Club Fencing team
-- 🏢 Working at Coverys as a O365 Cloud Co-op
+- 🌍 Visiting Australia
 - 📚 Learning Dutch
 	
 ## My Skills Include 🌴
